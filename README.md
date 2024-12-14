@@ -42,9 +42,9 @@ Trying to solve a ticket. Scenarior: entire online banking is down, no one can a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cC85Czp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Dealing with a laptop top turning on, there could be different types of situations. It would be best to start with the easy ones like a new charging chord or, it could be the battery. Took a new charging chord and saw the laptop was charging. Tried the power button and worked. Resolved the ticket.
 </p>
 <br />
